@@ -1,39 +1,13 @@
-# KernelAdiutor
-
-[![Build Status](https://travis-ci.org/yoinx/kernel_adiutor.svg?branch=master)](https://travis-ci.org/yoinx/kernel_adiutor)
-
-![Screenshot](https://raw.githubusercontent.com/Grarak/KernelAdiutor/master/screenshots/screenshot.png)
-
-* [Join Google+ Community](https://plus.google.com/communities/103764146519204710337)
-
-## Kernel Downloader
-
-This is a feature which allows the user to download different custom kernels for their device. To add more kernel the developers have to add support by their own. I wrote up a [documentation](https://github.com/Grarak/KernelAdiutor/wiki/Adding-Download-Support) which explains how to do this.
-
-## Report a bug or request a feature
-
-You can report a bug or request a feature by [opening an issue](https://github.com/yoinx/kernel_adiutor/issues/new).
-
-#### How to report a bug
-* A detailed description of the bug
-* Logcat
-* Make sure there are no similar bug reports already
-
-#### How to request a feature
-* A detailed description of the feature
-* All kind of information
-* Paths to sys interface
-* What's the content if the sys file
-* How to apply a new value
-* Make sure there are no similar feature requests already
+# KernelAdiutor-Mod
+Forked from https://github.com/yoinx/kernel_adiutor
 
 ## Download & Build
 
 Clone the project and come in:
 
 ``` bash
-$ git clone git://github.com/yoinx/kernel_adiutor.git
-$ cd KernelAdiutor
+$ git clone git://github.com/pixeldustproject/KernelAdiutor-Mod.git
+$ cd KernelAdiutor-Mod
 $ ./gradlew build
 ```
 
@@ -87,3 +61,4 @@ _(Many sys interface paths has been taken from his [UKM-Project](https://github.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
